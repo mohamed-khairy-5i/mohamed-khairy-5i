@@ -20,12 +20,11 @@
 
 | Project | Description |
 |---------|-------------|
-| 🖼️ **codepixel-vscode** | VS Code extension for beautiful code screenshots |
-| ✂️ **TrimBG** | AI Background Remover (100% local & private) |
-| 🔄 **Nexluna** | Unit converter with blog & SEO |
-| 🕌 **Calcuzakat** | Islamic Zakat calculator (Astro + TypeScript) |
-| 📿 **dhikra-website** | Islamic remembrances & adhkar website |
-| 🛍️ **Melano** | Milano Perfume e-commerce store |
+| 🖼️ [**codepixel-vscode**](https://github.com/mohamed-khairy-5i/codepixel-vscode) | VS Code extension for beautiful code screenshots |
+| ✂️ [**TrimBG**](https://github.com/mohamed-khairy-5i/TrimBG) | AI background remover — local and private |
+| 🔄 [**Nexluna**](https://github.com/mohamed-khairy-5i/Nexluna) | Arabic unit converter with blog and SEO |
+| 🕌 [**Calcuzakat**](https://github.com/mohamed-khairy-5i/Calcuzakat) | Islamic Zakat calculator built with Astro |
+| 📿 [**dhikra-website**](https://github.com/mohamed-khairy-5i/dhikra-website) | Arabic Islamic remembrances website |
 
 ---
 
