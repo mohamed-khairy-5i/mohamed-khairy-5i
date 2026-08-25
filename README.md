@@ -1,15 +1,9 @@
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="mohamed-khairy-5i's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 ## 👋 السلام عليكم ورحمة الله وبركاته
 
 # Mohamed Khairy — محمد خيري
 
-**Building Arabic SaaS products for Egypt 🚀 | React, TypeScript, AI, Flutter**
+**Freelance Frontend Developer building Arabic SaaS products for Egypt 🚀 | React, TypeScript, AI, Flutter**
 
 ---
 
@@ -22,7 +16,7 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -36,11 +30,17 @@
 ---
 
 ### 🤝 Connect With Me
-📧 **Email:** _Coming soon_  
-🌐 **Portfolio:** _Coming soon_  
-💼 **LinkedIn:** _Coming soon_  
+📧 **Email:** [mohamedkhairy0887@gmail.com](mailto:mohamedkhairy0887@gmail.com)<br>
+🌐 **Portfolio:** [mokhairy.netlify.app](https://mokhairy.netlify.app/)<br>
+💼 **LinkedIn:** [mohamed-khairy-5i](https://www.linkedin.com/in/mohamed-khairy-5i/)<br>
 🐙 **GitHub:** [@mohamed-khairy-5i](https://github.com/mohamed-khairy-5i)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Mohamed Khairy GitHub profile overview" src="dark_mode.svg" />
+</picture>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-khairy-5i&show_icons=true&theme=tokyonight&locale=en)
