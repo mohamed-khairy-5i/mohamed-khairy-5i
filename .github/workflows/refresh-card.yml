@@ -1,0 +1,47 @@
+# gh-ascii — daily card refresh
+# Re-downloads both themes once a day and commits only when the card changed,
+# so stars / commits / uptime stay current without touching anything.
+
+name: Refresh gh-ascii card
+
+on:
+  schedule:
+    # Daily at 06:17 UTC (off-the-hour = more reliable scheduling)
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-gh-ascii-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      # actions/checkout@v7 (pinned to full SHA)
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - name: Download both themes
+        env:
+          HANDLE: mohamed-khairy-5i
+          GH_ASCII_URL: https://gh.crafter.run
+        run: |
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "$GH_ASCII_URL/$HANDLE?theme=dark" -o dark_mode.svg
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "$GH_ASCII_URL/$HANDLE?theme=light" -o light_mode.svg
+
+      - name: Commit only if the card changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          if git diff --cached --quiet; then
+            echo "Card unchanged — nothing to commit."
+          else
+            git commit -m "chore: refresh gh-ascii card"
+            git push
+          fi
