@@ -4,6 +4,10 @@
   <img alt="Mohamed Khairy — GitHub profile banner" src="dark_mode.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B+%D8%A3%D9%86%D8%A7+%D9%85%D8%AD%D9%85%D8%AF+%D8%AE%D9%8A%D8%B1%D9%8A;Freelance+Frontend+Developer+%7C+Arabic+SaaS;Building+TossInbox+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
 # Mohamed Khairy — محمد خيري
 
 **Freelance Frontend Developer** building Arabic SaaS products for Egypt.
@@ -11,13 +15,22 @@ React · TypeScript · AI · Flutter
 
 ---
 
-### Currently Building
+### 🚀 Currently Building — [TossInbox](https://github.com/mohamed-khairy-5i/tossinbox)
 
-**قسطلي — Qassetly** — نظام إدارة الأقساط للشركات الصغيرة: فواتير، عملاء، أقساط، وتقارير. SaaS بالعربي من الأول.
+> Disposable email inboxes for humans **and** AI agents — spawn a throwaway inbox, wait for the OTP, toss it. No sign-up, no API keys.
+
+<div align="center">
+  <a href="https://github.com/mohamed-khairy-5i/tossinbox"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-khairy-5i&repo=tossinbox&theme=radical&hide_border=true" alt="TossInbox repo card" /></a>
+</div>
+
+[![npm](https://img.shields.io/npm/v/tossinbox?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/tossinbox)
+[![Homebrew](https://img.shields.io/badge/brew%20install-mohamed--khairy--5i%2Ftap%2Ftossinbox-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/mohamed-khairy-5i/homebrew-tap)
+[![Docs](https://img.shields.io/badge/docs-tossinbox.pages.dev-8A2BE2?style=flat-square&logo=buffer&logoColor=white)](https://tossinbox.pages.dev/)
+[![CLI](https://img.shields.io/badge/npx-tossinbox-000000?style=flat-square&logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/tossinbox)
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
 **Frontend:** React 19 · Next.js 16 · TypeScript · Tailwind CSS · Astro
 **Mobile:** Flutter · Dart
@@ -27,20 +40,51 @@ React · TypeScript · AI · Flutter
 
 ---
 
-### Featured Projects
+### ⭐ Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [**codepixel-vscode**](https://github.com/mohamed-khairy-5i/codepixel-vscode) | VS Code extension for beautiful code screenshots |
+| [**TossInbox**](https://github.com/mohamed-khairy-5i/tossinbox) | Disposable email CLI + MCP server for AI agents |
 | [**TrimBG**](https://github.com/mohamed-khairy-5i/TrimBG) | AI background remover — 100% local & private |
-| [**Nexluna**](https://github.com/mohamed-khairy-5i/Nexluna) | Arabic unit converter with blog & SEO |
+| [**codepixel-vscode**](https://github.com/mohamed-khairy-5i/codepixel-vscode) | VS Code extension for beautiful code screenshots |
+| [**mind-map**](https://github.com/mohamed-khairy-5i/mind-map) | Interactive mind mapping tool |
 | [**Calcuzakat**](https://github.com/mohamed-khairy-5i/Calcuzakat) | Islamic Zakat calculator built with Astro |
-| [**dhikra-website**](https://github.com/mohamed-khairy-5i/dhikra-website) | Arabic Islamic remembrances website |
+| [**naqi-app**](https://github.com/mohamed-khairy-5i/naqi-app) | Permissions management app (Flutter) |
+| [**devsignal**](https://github.com/mohamed-khairy-5i/devsignal) | GitHub work → recruiter-ready developer card |
+| [**Nexluna**](https://github.com/mohamed-khairy-5i/Nexluna) | Arabic unit converter with blog & SEO |
 
 ---
 
-### Get in Touch
+### 📊 GitHub Stats
 
-**Email** — [mohamedkhairy0887@gmail.com](mailto:mohamedkhairy0887@gmail.com)
-**Portfolio** — [mokhairy.netlify.app](https://mokhairy.netlify.app/)
-**LinkedIn** — [mohamed-khairy-5i](https://www.linkedin.com/in/mohamed-khairy-5i/)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamed-khairy-5i&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-khairy-5i&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mohamed-khairy-5i&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-khairy-5i&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+</div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-khairy-5i/mohamed-khairy-5i/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-khairy-5i/mohamed-khairy-5i/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohamed-khairy-5i/mohamed-khairy-5i/output/github-snake.svg" />
+</picture>
+
+---
+
+### 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-mohamedkhairy0887%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedkhairy0887@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mokhairy.netlify.app-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://mokhairy.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--khairy--5i-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khairy-5i/)
+
+---
+
+⏭️ **Next up:** قسطلي — نظام إدارة الأقساط للشركات الصغيرة *(on hold)*
