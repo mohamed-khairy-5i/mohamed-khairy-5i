@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%F0%9F%91%8B+%D8%A3%D9%86%D8%A7+%D9%85%D8%AD%D9%85%D8%AF+%D8%AE%D9%8A%D8%B1%D9%8A;Freelance+Frontend+Developer+%7C+Arabic+SaaS;Building+TossInbox+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-khairy-5i&color=8A2BE2&style=flat-square&label=Profile+views" alt="Profile views" />
+</div>
+
 # Mohamed Khairy — محمد خيري
 
 **Freelance Frontend Developer** building Arabic SaaS products for Egypt.
