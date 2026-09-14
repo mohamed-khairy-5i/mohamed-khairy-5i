@@ -17,6 +17,8 @@
 **Freelance Frontend Developer** building Arabic SaaS products for Egypt.
 React · TypeScript · AI · Flutter
 
+🤖 *This profile is maintained with AI pair-programming.*
+
 ---
 
 ### 🚀 Currently Building — [TossInbox](https://github.com/mohamed-khairy-5i/tossinbox)
