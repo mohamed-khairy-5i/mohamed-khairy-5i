@@ -36,6 +36,20 @@ React · TypeScript · AI · Flutter
 
 ---
 
+### 🩺 Also Shipping — [trigger-doctor](https://github.com/mohamed-khairy-5i/trigger-doctor)
+
+> Behavioral testing for AI agent skill triggers — diagnose why a skill never fires, prescribe a fixed description, and keep a regression suite. One `SKILL.md`, 79 agents. Listed on the [skills.sh directory](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor).
+
+<a href="https://github.com/mohamed-khairy-5i/trigger-doctor">
+  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/trigger-doctor" alt="trigger-doctor — behavioral testing for AI agent skill triggers" />
+</a>
+
+[![skills.sh](https://img.shields.io/badge/skills.sh-listed_%7C_audits_3%2F3-10b981?style=flat-square)](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor)
+[![Install](https://img.shields.io/badge/npx-skills_add_mohamed--khairy--5i%2Ftrigger--doctor-000000?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/mohamed-khairy-5i/trigger-doctor#quick-start)
+[![CI](https://github.com/mohamed-khairy-5i/trigger-doctor/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/mohamed-khairy-5i/trigger-doctor/actions/workflows/ci.yml)
+
+---
+
 ### 🧰 Tech Stack
 
 <div align="center">
@@ -55,6 +69,7 @@ React · TypeScript · AI · Flutter
 | Project | Description |
 |---------|-------------|
 | [**TossInbox**](https://github.com/mohamed-khairy-5i/tossinbox) | Disposable email CLI + MCP server for AI agents |
+| [**trigger-doctor**](https://github.com/mohamed-khairy-5i/trigger-doctor) | Behavioral testing for skill triggers — [live on skills.sh](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor) |
 | [**TrimBG**](https://github.com/mohamed-khairy-5i/TrimBG) | AI background remover — 100% local & private |
 | [**codepixel-vscode**](https://github.com/mohamed-khairy-5i/codepixel-vscode) | VS Code extension for beautiful code screenshots |
 | [**mind-map**](https://github.com/mohamed-khairy-5i/mind-map) | Interactive mind mapping tool |
