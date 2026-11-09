@@ -65,17 +65,33 @@ React · TypeScript · AI · Flutter
 
 ---
 
+### 🔬 New AI Safety Benchmark — [Agent Account Lab](https://github.com/mohamed-khairy-5i/agent-account-lab)
+
+> Open-source evaluation suite & empirical benchmark quantifying the **Authorized-Yet-Mistargeted Execution Paradox** in frontier AI agents. Full bilingual interactive Web UI (React 19 + Vite), 20 scenario families, 100 test variants, and empirical evaluations across GLM-5.3, Kimi K3, DeepSeek V4.1, Qwen 3.8, and Gemini 3.8.
+
+<a href="https://github.com/mohamed-khairy-5i/agent-account-lab">
+  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/agent-account-lab" alt="Agent Account Lab — AI agent multi-account safety benchmark" />
+</a>
+
+[![Tests](https://img.shields.io/badge/Tests-52%2F52_Passing-10b981?style=flat-square)](https://github.com/mohamed-khairy-5i/agent-account-lab)
+[![Frontier Benchmark](https://img.shields.io/badge/Frontier_Benchmark-8_Agents-818cf8?style=flat-square)](https://github.com/mohamed-khairy-5i/agent-account-lab/blob/main/docs/RESEARCH_REPORT.md)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strict_5.9-3178c6?style=flat-square&logo=typescript)](https://github.com/mohamed-khairy-5i/agent-account-lab)
+[![Paper](https://img.shields.io/badge/Paper-RESEARCH__REPORT.md-f59e0b?style=flat-square)](https://github.com/mohamed-khairy-5i/agent-account-lab/blob/main/docs/RESEARCH_REPORT.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/mohamed-khairy-5i/agent-account-lab/blob/main/LICENSE)
+
+---
+
 ### 🧰 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,nodejs,python,flutter,dart,supabase,firebase,docker,git,github,vscode,cloudflare&theme=dark" alt="Tech stack icons" />
 </div>
 
-**Frontend:** React 19 · Next.js 16 · TypeScript · Tailwind CSS · Astro
-**Mobile:** Flutter · Dart
-**Backend:** Node.js · Python · Supabase · Firebase
-**AI:** OpenAI · MediaPipe · ONNX · WebAssembly
-**DevOps:** Netlify · Cloudflare · Docker · CI/CD
+**Frontend:** React 19 · Next.js 16 · TypeScript · Tailwind CSS · Astro  
+**Mobile:** Flutter · Dart  
+**Backend:** Node.js · Python · Supabase · Firebase  
+**AI:** OpenAI · MediaPipe · ONNX · WebAssembly  
+**DevOps:** Netlify · Cloudflare · Docker · CI/CD  
 
 ---
 
@@ -83,6 +99,7 @@ React · TypeScript · AI · Flutter
 
 | Project | Description |
 |---------|-------------|
+| [**Agent Account Lab**](https://github.com/mohamed-khairy-5i/agent-account-lab) | Empirical AI agent benchmark for multi-account safety (React 19 UI + Research Paper) |
 | [**OpenTrack OS**](https://github.com/mohamed-khairy-5i/opentrack-os) | $0 Google Fleet Engine alternative for Next.js & React (Live PWA + OSRM routing) |
 | [**TossInbox**](https://github.com/mohamed-khairy-5i/tossinbox) | Disposable email CLI + MCP server for AI agents |
 | [**trigger-doctor**](https://github.com/mohamed-khairy-5i/trigger-doctor) | Behavioral testing for skill triggers — [live on skills.sh](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor) |
