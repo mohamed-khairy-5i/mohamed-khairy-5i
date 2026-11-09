@@ -41,7 +41,7 @@ React · TypeScript · AI · Flutter
 > The zero-cost ($0), drop-in open-source alternative to Google Maps & Google Fleet Engine for React and Next.js. Real-time fleet tracking, OSRM street routing, driver mobile PWA, geofencing, and native bilingual (AR/EN) support.
 
 <a href="https://github.com/mohamed-khairy-5i/opentrack-os">
-  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/opentrack-os" alt="OpenTrack OS — zero-cost fleet engine" />
+  <img width="600" src="https://raw.githubusercontent.com/mohamed-khairy-5i/opentrack-os/main/docs/preview.png" alt="OpenTrack OS — zero-cost fleet engine" />
 </a>
 
 [![Live Demo](https://img.shields.io/badge/Demo-opentrack--os.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://opentrack-os.pages.dev/)
