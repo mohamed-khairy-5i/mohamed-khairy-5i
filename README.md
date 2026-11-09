@@ -36,6 +36,21 @@ React · TypeScript · AI · Flutter
 
 ---
 
+### 🗺️ Just Shipped — [OpenTrack OS](https://github.com/mohamed-khairy-5i/opentrack-os)
+
+> The zero-cost ($0), drop-in open-source alternative to Google Maps & Google Fleet Engine for React and Next.js. Real-time fleet tracking, OSRM street routing, driver mobile PWA, geofencing, and native bilingual (AR/EN) support.
+
+<a href="https://github.com/mohamed-khairy-5i/opentrack-os">
+  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/opentrack-os" alt="OpenTrack OS — zero-cost fleet engine" />
+</a>
+
+[![Live Demo](https://img.shields.io/badge/Demo-opentrack--os.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://opentrack-os.pages.dev/)
+[![Driver PWA](https://img.shields.io/badge/PWA-Driver%20App-0284c7?style=flat-square&logo=pwa&logoColor=white)](https://opentrack-os.pages.dev/driver)
+[![GitHub stars](https://img.shields.io/github/stars/mohamed-khairy-5i/opentrack-os?style=flat-square&color=38bdf8)](https://github.com/mohamed-khairy-5i/opentrack-os)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mohamed-khairy-5i/opentrack-os/blob/main/LICENSE)
+
+---
+
 ### 🩺 Also Shipping — [trigger-doctor](https://github.com/mohamed-khairy-5i/trigger-doctor)
 
 > Behavioral testing for AI agent skill triggers — diagnose why a skill never fires, prescribe a fixed description, and keep a regression suite. One `SKILL.md`, 79 agents. Listed on the [skills.sh directory](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor).
@@ -68,6 +83,7 @@ React · TypeScript · AI · Flutter
 
 | Project | Description |
 |---------|-------------|
+| [**OpenTrack OS**](https://github.com/mohamed-khairy-5i/opentrack-os) | $0 Google Fleet Engine alternative for Next.js & React (Live PWA + OSRM routing) |
 | [**TossInbox**](https://github.com/mohamed-khairy-5i/tossinbox) | Disposable email CLI + MCP server for AI agents |
 | [**trigger-doctor**](https://github.com/mohamed-khairy-5i/trigger-doctor) | Behavioral testing for skill triggers — [live on skills.sh](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor) |
 | [**TrimBG**](https://github.com/mohamed-khairy-5i/TrimBG) | AI background remover — 100% local & private |
