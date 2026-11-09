@@ -46,7 +46,7 @@ React · TypeScript · AI · Flutter
 
 [![Live Demo](https://img.shields.io/badge/Demo-opentrack--os.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://opentrack-os.pages.dev/)
 [![Driver PWA](https://img.shields.io/badge/PWA-Driver%20App-0284c7?style=flat-square&logo=pwa&logoColor=white)](https://opentrack-os.pages.dev/driver)
-[![GitHub stars](https://img.shields.io/github/stars/mohamed-khairy-5i/opentrack-os?style=flat-square&color=38bdf8)](https://github.com/mohamed-khairy-5i/opentrack-os)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-khairy-5i/opentrack-os)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mohamed-khairy-5i/opentrack-os/blob/main/LICENSE)
 
 ---
