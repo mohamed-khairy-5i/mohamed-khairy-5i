@@ -26,7 +26,7 @@ React · TypeScript · AI · Flutter
 > Disposable email inboxes for humans **and** AI agents — spawn a throwaway inbox, wait for the OTP, toss it. No sign-up, no API keys.
 
 <a href="https://github.com/mohamed-khairy-5i/tossinbox">
-  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/tossinbox" alt="TossInbox — disposable email CLI + MCP server for AI agents" />
+  <img width="600" src="https://opengraph.githubassets.com/2/mohamed-khairy-5i/tossinbox" alt="TossInbox — disposable email CLI + MCP server for AI agents" />
 </a>
 
 [![npm](https://img.shields.io/npm/v/tossinbox?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/tossinbox)
@@ -41,7 +41,7 @@ React · TypeScript · AI · Flutter
 > The zero-cost ($0), drop-in open-source alternative to Google Maps & Google Fleet Engine for React and Next.js. Real-time fleet tracking, OSRM street routing, driver mobile PWA, geofencing, and native bilingual (AR/EN) support.
 
 <a href="https://github.com/mohamed-khairy-5i/opentrack-os">
-  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/opentrack-os" alt="OpenTrack OS — zero-cost fleet engine" />
+  <img width="600" src="https://opengraph.githubassets.com/2/mohamed-khairy-5i/opentrack-os" alt="OpenTrack OS — zero-cost fleet engine" />
 </a>
 
 [![Live Demo](https://img.shields.io/badge/Demo-opentrack--os.pages.dev-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://opentrack-os.pages.dev/)
@@ -56,7 +56,7 @@ React · TypeScript · AI · Flutter
 > Behavioral testing for AI agent skill triggers — diagnose why a skill never fires, prescribe a fixed description, and keep a regression suite. One `SKILL.md`, 79 agents. Listed on the [skills.sh directory](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor).
 
 <a href="https://github.com/mohamed-khairy-5i/trigger-doctor">
-  <img width="600" src="https://opengraph.githubassets.com/1/mohamed-khairy-5i/trigger-doctor" alt="trigger-doctor — behavioral testing for AI agent skill triggers" />
+  <img width="600" src="https://opengraph.githubassets.com/2/mohamed-khairy-5i/trigger-doctor" alt="trigger-doctor — behavioral testing for AI agent skill triggers" />
 </a>
 
 [![skills.sh](https://img.shields.io/badge/skills.sh-listed_%7C_audits_3%2F3-10b981?style=flat-square)](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor)
