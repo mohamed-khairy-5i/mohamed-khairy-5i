@@ -105,9 +105,7 @@ React · TypeScript · AI · Flutter
 | [**trigger-doctor**](https://github.com/mohamed-khairy-5i/trigger-doctor) | Behavioral testing for skill triggers — [live on skills.sh](https://www.skills.sh/mohamed-khairy-5i/trigger-doctor/trigger-doctor) |
 | [**TrimBG**](https://github.com/mohamed-khairy-5i/TrimBG) | AI background remover — 100% local & private |
 | [**codepixel-vscode**](https://github.com/mohamed-khairy-5i/codepixel-vscode) | VS Code extension for beautiful code screenshots |
-| [**mind-map**](https://github.com/mohamed-khairy-5i/mind-map) | Interactive mind mapping tool |
 | [**Calcuzakat**](https://github.com/mohamed-khairy-5i/Calcuzakat) | Islamic Zakat calculator built with Astro |
-| [**naqi-app**](https://github.com/mohamed-khairy-5i/naqi-app) | Permissions management app (Flutter) |
 | [**devsignal**](https://github.com/mohamed-khairy-5i/devsignal) | GitHub work → recruiter-ready developer card |
 | [**Nexluna**](https://github.com/mohamed-khairy-5i/Nexluna) | Arabic unit converter with blog & SEO |
 
